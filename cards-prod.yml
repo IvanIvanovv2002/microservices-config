@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to microservices cards related prod APIs "
+  message: "Welcome to microservices cards related production APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: '{cipher}dd8b22fbce9960f1a4ca9558c7a4907c14fcb0730141d5edfec33e9073ee6122'

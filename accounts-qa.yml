@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to microservices accounts related QA APIs "
+  message: "Welcome to microservices accounts related QA APIs Test"
   contactDetails:
     name: "Ivan Dimitrov - QA Lead"
     email: '{cipher}2a2b86acc7c36a4585321b9a3c131a4bd5360e54b6843c5b6213861f40f742fd'

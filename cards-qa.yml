@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to microservice cards related QA APIs "
   contactDetails:
-    name: "Cherryl Pankaj - QA Lead"
+    name: "Cherryl Pankaj - QA Lead Test"
     email: '{cipher}dd8b22fbce9960f1a4ca9558c7a4907c14fcb0730141d5edfec33e9073ee6122'
   onCallSupport:
     - (310) 875-4367

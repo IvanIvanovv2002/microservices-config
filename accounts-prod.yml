@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to microservices accounts related prod APIs "
+  message: "Welcome to microservices accounts related production APIs "
   contactDetails:
     name: "Ivan Rakitov - Product Owner"
     email: '{cipher}74547d9dc6b585465bc0b8a54a54c06cb81c36d2c27cf2ea3961dd28ac04d0fc'

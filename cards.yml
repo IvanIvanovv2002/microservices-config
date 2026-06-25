@@ -1,0 +1,14 @@
+build:
+  version: "3.0"
+
+java:
+  home: ${JAVA_HOME:not configured}
+
+cards:
+  message: "Welcome to microservices cards related local APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: '{cipher}dd8b22fbce9960f1a4ca9558c7a4907c14fcb0730141d5edfec33e9073ee6122'
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to microservices cards related prod APIs "
+  contactDetails:
+    name: "Sandra Harald - Product Owner"
+    email: '{cipher}dd8b22fbce9960f1a4ca9558c7a4907c14fcb0730141d5edfec33e9073ee6122'
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721

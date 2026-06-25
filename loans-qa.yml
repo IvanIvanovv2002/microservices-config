@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to microservices loans related QA APIs "
+  contactDetails:
+    name: "Cyrano Marita - QA Lead"
+    email: '{cipher}dd8b22fbce9960f1a4ca9558c7a4907c14fcb0730141d5edfec33e9073ee6122'
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467

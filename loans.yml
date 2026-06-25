@@ -1,0 +1,14 @@
+java:
+  home: ${JAVA_HOME:not configured}
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to microservices loans related local APIs "
+  contactDetails:
+    name: "Amaal Grega - Developer"
+    email: '{cipher}dd8b22fbce9960f1a4ca9558c7a4907c14fcb0730141d5edfec33e9073ee6122'
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934
